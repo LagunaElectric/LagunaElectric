@@ -48,6 +48,7 @@ I believe the best code is the code you don't have to write twice.
 
 | Project | What it does | Built with |
 |---|---|---|
+| [**Overlord**](https://github.com/LagunaElectric/Overlord) | Local dev dashboard — manage repos, tasks, env vars, and workflows | Vue / Python / FastAPI |
 | [**regex-factory**](https://github.com/LagunaElectric/regex-factory-v2) | Visual regex builder & tester | Vue / Nuxt |
 
 ---
