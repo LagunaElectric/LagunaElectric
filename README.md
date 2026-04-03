@@ -1,13 +1,6 @@
 <div align="center">
 
-```
- _
-| |    __ _  __ _ _   _ _ __   __ _
-| |   / _` |/ _` | | | | '_ \ / _` |
-| |__| (_| | (_| | |_| | | | | (_| |
-|_____\__,_|\__, |\__,_|_| |_|\__,_|
-             |___/
-```
+<img src="assets/header.svg" alt="Laguna - Terminal Header" width="800" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=%3E+cto+%40+trike.co;%3E+building+tools+for+builders;%3E+if+it's+boring%2C+automate+it)](https://git.io/typing-svg)
 
