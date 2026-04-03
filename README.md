@@ -10,7 +10,7 @@
 
 ### `> whoami`
 
-I'm Laguna — CTO at [Trike](https://trike.co) and currently building an integration system for [Scheme](https://scheme.com). Been shipping code since 2013. I like building developer tools and automating anything that sits still long enough.
+I'm Laguna — CTO at [Trike](https://trike.co) and currently building an integration system for [Scheme](https://schemebig.com). Been shipping code since 2013. I like building developer tools and automating anything that sits still long enough.
 
 I believe the best code is the code you don't have to write twice.
 
