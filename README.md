@@ -1,13 +1,13 @@
-```
- ██╗      █████╗  ██████╗ ██╗   ██╗███╗   ██╗ █████╗
- ██║     ██╔══██╗██╔════╝ ██║   ██║████╗  ██║██╔══██╗
- ██║     ███████║██║  ███╗██║   ██║██╔██╗ ██║███████║
- ██║     ██╔══██║██║   ██║██║   ██║██║╚██╗██║██╔══██║
- ███████╗██║  ██║╚██████╔╝╚██████╔╝██║ ╚████║██║  ██║
- ╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
-```
-
 <div align="center">
+
+```
+ _
+| |    __ _  __ _ _   _ _ __   __ _
+| |   / _` |/ _` | | | | '_ \ / _` |
+| |__| (_| | (_| | |_| | | | | (_| |
+|_____\__,_|\__, |\__,_|_| |_|\__,_|
+             |___/
+```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=%3E+cto+%40+trike.co;%3E+building+tools+for+builders;%3E+if+it's+boring%2C+automate+it)](https://git.io/typing-svg)
 
@@ -63,9 +63,9 @@ I believe the best code is the code you don't have to write twice.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LagunaElectric&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&icon_color=00ff00&title_color=00ff00&text_color=c9d1d9" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LagunaElectric&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="Top Languages" />
+<a href="https://github.com/LagunaElectric">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LagunaElectric&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="GitHub Streak" />
+</a>
 
 </div>
 
